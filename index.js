@@ -17,5 +17,7 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   let small="I can't hear you!";
   let big ="YES INDEED!";
-  let last="I love you, too"
+  let last="I love you, too.";
+  
+  if(string===small )
 }
