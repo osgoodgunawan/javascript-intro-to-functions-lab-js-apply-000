@@ -23,7 +23,7 @@ function sayHiToGrandma(string){
     return small;
   }else if(string.toUpperCase(string)){
     return big;
-  }else{
+  }else if()
     return last;
   }
   
