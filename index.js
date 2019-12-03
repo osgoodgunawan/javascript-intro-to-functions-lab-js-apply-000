@@ -19,5 +19,5 @@ function sayHiToGrandma(string){
   let big ="YES INDEED!";
   let last="I love you, too.";
   
-  if(string===small )
+  if(string.toLowerCase(string) )
 }
